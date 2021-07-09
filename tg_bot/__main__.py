@@ -142,11 +142,11 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="❔ Help ❔",
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="Channel",
-                                                                       url="https://t.me/slhitbotofficial")],
+                                                                       url="https://t.me/u_tech_channel")],
                                                                                    [InlineKeyboardButton(text="➕ Add To Me Your Group ➕",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
-                                                                                   InlineKeyboardButton(text="Our Bots",
-                                                                       url="https://t.me/slhitbotofficial/37")
+                                                                                   InlineKeyboardButton(text="Group",
+                                                                       url="https://t.me/u_tech")
                                                                                  ]]))
 
     else:
