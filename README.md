@@ -1,12 +1,12 @@
-## Im ezila Robot
+## Im shela bot
 
 # sl bots Based on Python Telegram Bot
 <p align="center">
-  <img src="https://telegra.ph/file/7bb512fd4c29eb943a13a.jpg">
+  <img src="https://telegra.ph/file/9085672227b0222ca41e5.jpg">
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/slbotofficial11/ezila)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew12/ezila)
 
 
 ## New version Avaiilable on Telegram as [SL Bots](https://t.me/slhitofficial_bot)
